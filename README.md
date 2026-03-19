@@ -8,7 +8,7 @@ Muhammad Farhan
 Fatima Tul Zahra
 
 Team Members
-Muhammad Tulaib Jawad Hassan 
+- Muhammad Tulaib
 
 Changelog
 19th March 2026 10:52 am.
